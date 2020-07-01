@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593601598330.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "779BA1B0",
+    "lastKnownWriteTime" : 1468250870,
+    "last_content_update" : 1468250870,
+    "path" : "C:/Users/cdonovan/OneDrive - Johnson Controls/Desktop/PCA Demo/My PCA Shiny/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "370,60",
+        "scrollLine" : "352"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
